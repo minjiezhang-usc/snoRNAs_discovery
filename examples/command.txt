@@ -1,0 +1,1 @@
+python RiboMethScore_calling.py  HEK293_WT_rep1_chr6_5end.bedgraph  HEK293_WT_rep1_chr6_3end.bedgraph  tRNA_on_chr6_gene.bed  both  Chr6
